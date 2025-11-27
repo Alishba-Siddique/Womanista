@@ -13,3 +13,6 @@
 [Womanista]
 https://github.com/user-attachments/assets/bb50ad38-f0bb-4b68-b513-41b6e8db04fb
 
+## Domai Model Class Diagram
+
+<img width="1221" height="1600" alt="Domain Model Class Diagram" src="https://github.com/user-attachments/assets/85f2bd11-5076-472b-8bf1-dd46752a87ac" />
