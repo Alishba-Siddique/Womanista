@@ -16,10 +16,10 @@ This was a **team capstone (5 members)**, scoped as a **mobile application (Andr
 
 | Module | What it does |
 | --- | --- |
-| 🏥 **Doctor** | Doctor listing and profiles, a doctor application form, a patient-request list, and email-based appointment initiation |
-| 🛒 **E-Commerce** | Product catalog, cart, checkout, orders, and an admin panel |
-| 🚖 **Ride Booking** | Ride request lifecycle, live map tracking, distance calculation, and rider/driver chat |
-| 🛡️ **Self-Defense** | Legal-awareness content, laws listing, and embedded educational videos |
+| 🏥 **Doctor**        | Doctor listing and profiles, a doctor application form, a patient-request list, and email-based appointment initiation |
+| 🛒 **E-Commerce**    | Product catalog, cart, checkout, orders, and an admin panel |
+| 🚖 **Ride Booking**  | Ride request lifecycle, live map tracking, distance calculation, and rider/driver chat |
+| 🛡️ **Self-Defense**  | Legal-awareness content, laws listing, and embedded educational videos |
 
 ---
 
